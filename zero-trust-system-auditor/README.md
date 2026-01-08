@@ -18,7 +18,7 @@ Requirements: Any Linux OS
 
 # How to Run
 
-`git clone https://github.com/yourusername/Zero-Trust-Auditor
+`git clone https://github.com/yourusername/Zero-Trust-Auditor`
 chmod +x scripts/audit.sh
 sudo ./scripts/audit.sh
 
@@ -27,8 +27,6 @@ sudo ./scripts/audit.sh
 Example output : 01
 
 ![](C:\Users\VICTUS\AppData\Roaming\marktext\images\2026-01-08-20-46-24-image.png)
-
-
 
 Example output : 02
 
