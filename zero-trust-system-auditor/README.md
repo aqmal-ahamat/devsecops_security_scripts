@@ -26,8 +26,8 @@ sudo ./scripts/audit.sh
 
 Example output : 01
 
-![](C:\Users\VICTUS\Documents\security%20scripts\zero-trust-system-auditor\screenshots\1.png)
+![Demo](screenshots/1.png)
 
 Example output : 02
 
-![](C:\Users\VICTUS\Documents\security%20scripts\zero-trust-system-auditor\screenshots\2.png)
+![Demo](screenshots/2.png)
