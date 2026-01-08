@@ -20,14 +20,14 @@ Requirements: Any Linux OS
 
 `git clone https://github.com/yourusername/Zero-Trust-Auditor`
 chmod +x scripts/audit.sh
-sudo ./scripts/audit.sh`
+sudo ./scripts/audit.sh
 
 # Screenshots
 
 Example output : 01
 
-![](C:\Users\VICTUS\AppData\Roaming\marktext\images\2026-01-08-20-46-24-image.png)
+![](C:\Users\VICTUS\Documents\security%20scripts\zero-trust-system-auditor\screenshots\1.png)
 
 Example output : 02
 
-![](C:\Users\VICTUS\AppData\Roaming\marktext\images\2026-01-08-20-49-40-image.png)
+![](C:\Users\VICTUS\Documents\security%20scripts\zero-trust-system-auditor\screenshots\2.png)
