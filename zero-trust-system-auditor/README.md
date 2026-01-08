@@ -20,7 +20,7 @@ Requirements: Any Linux OS
 
 `git clone https://github.com/yourusername/Zero-Trust-Auditor`
 chmod +x scripts/audit.sh
-sudo ./scripts/audit.sh
+sudo ./scripts/audit.sh`
 
 # Screenshots
 
